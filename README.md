@@ -2,7 +2,7 @@ BreakpointJS
 ============
 
 Sometimes you need to know what breakpoint you are at in `JS` but you don't want to hardcode the breakpoint in both, `CSS` and `JS`.
-You should never [repeat yourself](http://pragmatictips.com/11) as we all know becasue:
+You should never [repeat yourself](http://pragmatictips.com/11) as we all know:
 
 > It isn't a question of whether you'll remember: it's a question of when you'll forget.
 
