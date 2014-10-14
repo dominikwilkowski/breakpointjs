@@ -26,7 +26,7 @@ In your `CSS` you just add a class where you change the `width` depending on you
 	.temp-responsivejs { width: 1px }
 }
 @media screen and (min-width : 320px) {
-	.temp-responsivejs { width: 1px }
+	.temp-responsivejs { width: 2px }
 }
 ```
 
