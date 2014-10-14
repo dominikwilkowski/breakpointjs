@@ -15,11 +15,6 @@ In your `CSS` you just add a class where you change the `width` depending on you
 ```CSS
 .temp-responsivejs {
 	width: 0;
-	position: absolute;
-	top: -9999px;
-	left: -9999px;
-	height: 1px;
-	overflow: hidden;
 }
 
 @media screen and (max-width: 319px) {
